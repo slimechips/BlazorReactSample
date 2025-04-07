@@ -1,0 +1,28 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+
+@* <div id="myReactRoot"></div>
+<script id="myReactProps" type="application/json">
+  {
+      "message": "Hello from Blazor via TypeScript!"
+  }
+</script>
+
+<!-- Load React bundle (adjust file name as needed) -->
+<script type="module" src="react/assets/index-BlPKN7rz.js"></script> *@
+
+<ReactComponent ComponentName="MyComponent" Props="@(new { message = "Hello from Blazor via TypeScript!" })" />
+
+<ReactComponent ComponentName="DataTable" Props="@(new {
+    people = new[] {
+        new { id = 1, name = "Alice", age = 30, email = "alice@example.com" },
+        new { id = 2, name = "Bob", age = 25, email = "bob@example.com" },
+        new { id = 3, name = "Charlie", age = 35, email = "charlie@example.com" }
+    }
+})" />

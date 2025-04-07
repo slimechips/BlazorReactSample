@@ -1,0 +1,11 @@
+﻿@using System.Text.Json
+<div data-react-component="@ComponentName" data-props-id="@($"{ElementId}-props")" id="@ElementId"></div>
+<script id="@($"{ElementId}-props")" type="application/json">
+  @JsonSerializer.Serialize(Props)
+</script>
+
+@code {
+  [Parameter] public string ComponentName { get; set; } = "Greeting";
+  [Parameter] public object Props { get; set; } = new { };
+  private string ElementId { get; set; } = $"react-{Guid.NewGuid().ToString("N")}";
+}

@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F25D3CE-FE7E-43AB-AA51-0D69D454C6C2}|SampleBlazorWebApp\\SampleBlazorWebApp.csproj|c:\\users\\admin\\documents\\github\\sampleblazorwebapp\\sampleblazorwebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F25D3CE-FE7E-43AB-AA51-0D69D454C6C2}|SampleBlazorWebApp\\SampleBlazorWebApp.csproj|solutionrelative:sampleblazorwebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F25D3CE-FE7E-43AB-AA51-0D69D454C6C2}|SampleBlazorWebApp\\SampleBlazorWebApp.csproj|c:\\users\\admin\\documents\\github\\sampleblazorwebapp\\sampleblazorwebapp\\components\\reactcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F25D3CE-FE7E-43AB-AA51-0D69D454C6C2}|SampleBlazorWebApp\\SampleBlazorWebApp.csproj|solutionrelative:sampleblazorwebapp\\components\\reactcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F25D3CE-FE7E-43AB-AA51-0D69D454C6C2}|SampleBlazorWebApp\\SampleBlazorWebApp.csproj|c:\\users\\admin\\documents\\github\\sampleblazorwebapp\\sampleblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F25D3CE-FE7E-43AB-AA51-0D69D454C6C2}|SampleBlazorWebApp\\SampleBlazorWebApp.csproj|solutionrelative:sampleblazorwebapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F25D3CE-FE7E-43AB-AA51-0D69D454C6C2}|SampleBlazorWebApp\\SampleBlazorWebApp.csproj|c:\\users\\admin\\documents\\github\\sampleblazorwebapp\\sampleblazorwebapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F25D3CE-FE7E-43AB-AA51-0D69D454C6C2}|SampleBlazorWebApp\\SampleBlazorWebApp.csproj|solutionrelative:sampleblazorwebapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReactComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\SampleBlazorWebApp\\Components\\ReactComponent.razor",
+              "RelativeDocumentMoniker": "SampleBlazorWebApp\\Components\\ReactComponent.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\SampleBlazorWebApp\\Components\\ReactComponent.razor",
+              "RelativeToolTip": "SampleBlazorWebApp\\Components\\ReactComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T17:34:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\SampleBlazorWebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "SampleBlazorWebApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\SampleBlazorWebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "SampleBlazorWebApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T17:13:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\SampleBlazorWebApp\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "SampleBlazorWebApp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\SampleBlazorWebApp\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "SampleBlazorWebApp\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T17:12:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\SampleBlazorWebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "SampleBlazorWebApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Github\\SampleBlazorWebApp\\SampleBlazorWebApp\\Components\\App.razor",
+              "RelativeToolTip": "SampleBlazorWebApp\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T17:13:29.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
